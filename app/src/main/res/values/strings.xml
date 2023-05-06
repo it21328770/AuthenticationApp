@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AuthenticationApp1</string>
+    <string name="started_title">Hello EveryOne</string>
+    <string name="started_sub_title">
+        <center> Welcome nice to meet you all, come and join with our community!</center>
+        <br><b>Login </b> if you already have an account.</br>
+        <br><b>Register </b> to get started with us.</br>
+    </string>
+    <string name="illustration_img">illustration img</string>
+
+    <string name="btn_Register">Register</string>
+    <string name="btn_login">Login</string>
+
+
+    <string name="Login_title">Login to app:</string>
+    <string name="Login_sub_title">
+        <font color="#00C9b8">Login </font> if you already have an account.
+    </string>
+    <string name="Login_email">Your username or e-mail</string>
+    <string name="Login_password">Your password</string>
+    <string name="Login_forgot_password">Forgot password</string>
+    <string name="login_havent_account">
+        I dont have an account <font color="#00D4BB"><b> Register</b></font>
+    </string>
+
+
+    <string name="register_title">Create an account</string>
+    <string name="Register_sub_title">
+        <font color="#00C9b8">Register </font> to get started with the App.
+    </string>
+    <string name="register_fullname">Enter your fullname</string>
+    <string name="register_email">Enter your email</string>
+    <string name="register_username">Enter your username</string>
+    <string name="register_confirm_password">confirm enter password</string>
+    <string name="register_have_account">
+        I already have an account <font color="#00D4BB"><b> Login</b></font>
+    </string>
+
+
+    <string name="home_title">HEllO WORLD!</string>
+    <string name="logout">Logout</string>
+    
+    
+    <string name="reset_pw_title">Reset your password:</string>
+    <string name="reset_pw_sub_title">
+        <font color="#00C9b8">Reset Password</font>
+        if you forget your password.
+    </string>
+    <string name="btn_reset_pw">Reset Password</string>
+    <string name="back_to_login">Back to
+    <font color="#00C9B8"><b>login</b></font></string>
+
+
+</resources>
